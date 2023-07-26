@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: control-3
+  name: control-3-trimaran
   labels:
     workload: sleep
   annotations:

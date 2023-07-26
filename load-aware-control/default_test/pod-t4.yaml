@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: control-4
+  name: control-4-default
   labels:
     workload: make
   annotations:
